@@ -49,4 +49,3 @@ flutter run
 - Support multi-pad sequencing or recording
 - Add volume controls and pad labels
 # launch_pad
-# launch_pad
